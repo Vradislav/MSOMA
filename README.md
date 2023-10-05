@@ -1,5 +1,5 @@
 # MSOMA
 Modified self-organizing migration algorithm
 
-MSOMA_application.ipynb - contains the MSOMA class and its application.
-MSOMA.py - contains the MSOMA class
+1) MSOMA_application.ipynb - contains the MSOMA class and its application.
+2) MSOMA.py - contains the MSOMA class.
